@@ -1,1 +1,1 @@
-module smsir-golang
+module github.com/mirfarzam/smsir-golang
