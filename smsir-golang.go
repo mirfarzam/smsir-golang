@@ -29,7 +29,7 @@ type SMSIRResponseDataDTO struct {
 }
 
 type SMSIRResponseDTO struct {
-	Status  int8
+	Status  int
 	Message string
 	Data    SMSIRResponseDataDTO
 }
